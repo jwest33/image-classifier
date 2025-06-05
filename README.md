@@ -6,6 +6,8 @@ A complete machine learning pipeline for identifying cat breeds from images usin
 
 This project combines YOLO object detection with a CNN classifier to automatically detect cats in images and classify their breeds. The system uses transfer learning with MobileNetV2 for efficient and accurate breed classification.
 
+![Prediction Example](cat_image_test_3.jpg)
+
 ## Features
 
 - **Automated cat detection**: Uses YOLOv8 to detect and crop cats from images
